@@ -1,7 +1,7 @@
 this is sample text to check
 
 this stash
-
+a+b=c
 
 
 working
