@@ -5,7 +5,7 @@ a+b=c
 
 
 working
-
+a-b =c
 
 
 this is my own
